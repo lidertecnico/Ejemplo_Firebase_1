@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ejemplo Firebase 1</string>
+    <string name="app_footer">"@UnalTodosAlaU2024"</string>
+    <string name="start_button_text">Comenzar</string>
+    <string name="upload_button_text">Subir</string>
+    <string name="accelerometer_values_text">Valores del acelerómetro:</string>
+    <string name="return_button_text">Volver al home</string>
+    <string name="registration_title">Registro de usuarios</string>
+    <string name="name_hint">Nombre</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="register_button_text">Registrar</string>
+    <string name="login_button_text">Login</string>
+    <string name="messages_title">Mensajes con Firestore</string>
+    <string name="enter_message_hint">Ingrese su mensaje</string>
+    <string name="send_button_text">Enviar mensaje</string>
+    <string name="login_title">Inicio de sesión</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_button">Registrar</string>
+    <string name="home_view_title">Vista del Home</string>
+    <string name="firebase_examples_title">Ejemplos Firebase</string>
+    <string name="firestore_button">Firestore</string>
+    <string name="realtime_database_button">Realtime</string>
+    <string name="sensor_app_name">Firebase Realtime Database</string>
+</resources>

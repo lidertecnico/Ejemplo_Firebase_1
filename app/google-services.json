@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "605694093441",
+    "firebase_url": "https://nivelavanzadoappmoviles-default-rtdb.firebaseio.com",
+    "project_id": "nivelavanzadoappmoviles",
+    "storage_bucket": "nivelavanzadoappmoviles.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:d1bda37af07968ba108580",
+        "android_client_info": {
+          "package_name": "aplicacionesmoviles.avanzado.todosalau.ejemplofirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:65a12759eda9979b108580",
+        "android_client_info": {
+          "package_name": "unal.todosalau.bubblepopper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:1cdca942e9fbe538108580",
+        "android_client_info": {
+          "package_name": "unal.todosalau.frasesalvuelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:9c1b162822b624c3108580",
+        "android_client_info": {
+          "package_name": "unal.todosalau.mensajesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:659b091c543593ea108580",
+        "android_client_info": {
+          "package_name": "unal.todosalau.misnotas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:2e710cab0ed35b63108580",
+        "android_client_info": {
+          "package_name": "unal.todosalau.tareasapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605694093441:android:e44fe4b05cc3ab7e108580",
+        "android_client_info": {
+          "package_name": "unal.todosalau.unicorniomagico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz7kXNpx0eyXsuLHp1G57uxTSga4v6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605694093441-odf4r26n8dknsopkt53oc6l9kb8aul6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
